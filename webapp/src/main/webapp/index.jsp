@@ -31,6 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Thankyou, Happy Learning. Automatically Deployed image on docker hub using Ansible</h1>
+   <h1>Thankyou, Happy Learning. Deployment Successfull</h1>
   
 </form>
